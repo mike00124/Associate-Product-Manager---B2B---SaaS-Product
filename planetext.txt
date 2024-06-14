@@ -1,0 +1,36 @@
+Certainly! Here's a structured version of the job description for the Associate Product Manager role at Tracxn, formatted for clarity and conciseness:
+/**
+ * Tracxn - Associate Product Manager - B2B - SaaS Product (0 - 3 years)
+ * About Tracxn:
+ * Tracxn (www.tracxn.com) is a Bangalore-based product company providing a research and deal sourcing
+ * platform for Venture Capital, Private Equity, Corp Dev, and professionals working around the startup
+ * Ecosystem.
+ * We are a team of 600+ working professionals serving customers across the globe. Our clients include
+ * Funds like Andreessen Horowitz, Matrix Partners, GGV Capital and Large Corporates such as Citi,
+ * Embraer & Ferrero.
+ * About the Role:
+ * [Important] : This is an entry-level position.
+ * The Associate Product Manager is responsible for working closely with the Product Managers to plan and
+ * execute throughout the product life-cycle. You will be part of the product management team who will be
+ * responsible for planning and driving the product vision and strategy of one of the leading data
+ * platforms used in the Investment Industry.
+ * This is an entry-level role and as you grow, you will be closely working with the senior team members to
+ * venture into a PM role.
+ * As an Associate Product Manager in a data-centric company, the ability to build cases supported by data
+ * is essential. While training will be provided, the candidate should be able to demonstrate comfort with
+ * understanding basic coding principles and utilizing API tools like Postman to extract and analyze data.
+ * Key Responsibilities :
+ * - Assist PMs in defining feature specifications
+ * - Writing product requirement documents
+ * - Review and Report on Key Performance Indicators
+ * - Collaborate with UX team to create designs and wireframes
+ * - Manage the day-to-day operations in the product life cycle
+ * Please apply if you have :
+ * - 0 to 3 years of work experience. MBA is not mandatory
+ * - Been a consistent performer throughout your college and career
+ * - Interest in B2B SaaS products
+ * - An understanding and empathy for users
+ * - The ability to structure and analyze ambiguous problems
+ * - The ability to communicate ideas clearly through workflows, feature descriptions etc.
+ * - A desire to build a long-term career in Product Management proper code with theory
+ */
